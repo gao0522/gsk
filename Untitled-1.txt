@@ -1,0 +1,84 @@
+<html>
+  <head>
+  <title>英雄联盟</title>
+  </head>
+  <body>
+    <h1>英雄联盟（电子竞技游戏）</h1>
+	<br/>
+	<p><strong>《英雄联盟》</strong>由<em>Games</em>开发。</p>
+	<hr/>
+	<p><strong>《英雄联盟》</strong>除了。。。【<ins>1</ins>】</p>
+	<p>突破了<del>700</del> 900万</p>
+	<div align="center">
+        <img src="http://how2j.cn/example.gif" alt="这个是一个图片"/>
+    </div>
+	<a href="http://www.12306.cn">
+<img src="https://how2j.cn/example.gif"/>
+
+</a>
+
+<pre>
+public class HelloWorld {
+ 
+    public static void main(String[] args) {
+        System.out.println("Hello World");
+    }
+}
+ 
+</pre>
+
+<input type="password" name="密码框" placeholder="请输入密码" />
+
+<table border="1">
+  <tr bgcolor="yellow">
+      <td width="100px"><strong>aaaaa</strong></td>
+      <td width="50px">2</td>
+	  <td width="80px">3</td>
+	  <td width="260px">4</td>
+      <td width="60px">5</td>
+  </tr>
+ 
+  <tr>
+      <td>3</td>
+      <td>4</td>
+	  <td colspan="2">1</td>
+	  <td>1</td>
+  </tr>
+ 
+  <tr>
+      <td>a</td>
+      <td>b</td>
+	  <td>1</td>
+      <td>被动：最近获得最多击杀数的敌人会成为大反派。盖伦的E【审判】和普攻会对大反派造成额外真实伤害，伤害值为大反派1%的最大生命值。
+主动：盖伦召唤德玛西亚之力，试图斩杀一名敌方英雄，目标损失的生命越多，则此技能造成的伤害越高。造成175/350/525魔法伤害加上目标已损失生命值的28/33/40%。对大反派造成真实伤害。</td>
+	  <td>1</td>
+  </tr>
+  
+  <tr>
+      <td>1</td>
+      <td>2</td>
+	  <td>1</td>
+      <td>2</td>
+	  <td>1</td>
+  </tr>
+ 
+  <tr>
+      <td>3</td>
+      <td>4</td>
+	  <td>1</td>
+      <td>2</td>
+	  <td>1</td>
+  </tr>
+ 
+  <tr>
+      <td>a</td>
+      <td>b</td>
+	  <td>1</td>
+      <td>2</td>
+	  <td>1</td>
+  </tr>
+ 
+</table>
+
+  </body>
+</html>
